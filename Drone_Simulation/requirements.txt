@@ -1,0 +1,8 @@
+# Drone flight + simulator
+djitellopy-sim
+
+# Vision / input
+opencv-contrib-python   # includes cv2.face (LBPH) used by drone_pipeline
+mediapipe
+keyboard
+numpy
